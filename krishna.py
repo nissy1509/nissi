@@ -1,0 +1,3 @@
+krishna=[]
+print(krishna)
+print(type(krishna))
